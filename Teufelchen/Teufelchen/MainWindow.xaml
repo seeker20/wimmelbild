@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Teufelchen"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
     <Grid>
-        
+        <Rectangle>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\Data\garten.jpg"></ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
     </Grid>
 </Window>
