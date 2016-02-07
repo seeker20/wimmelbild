@@ -1,1 +1,14 @@
 C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\bin\Debug\Teufelchen.exe.config
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\bin\Debug\Teufelchen.exe
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\bin\Debug\Teufelchen.pdb
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.csprojResolveAssemblyReference.cache
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\MainWindow.g.cs
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\App.g.cs
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen_MarkupCompile.cache
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen_MarkupCompile.lref
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\MainWindow.baml
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.g.resources
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.Properties.Resources.resources
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.csproj.GenerateResource.Cache
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.exe
+C:\Users\devlop\Desktop\Wimmelbild\wimmelbild\Teufelchen\Teufelchen\obj\Debug\Teufelchen.pdb
